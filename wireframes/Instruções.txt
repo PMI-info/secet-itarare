@@ -1,0 +1,2 @@
+Aqui você encontrará as telas que serão usadas como referência para desenvolvimento do site
+Todas poderão ser visualizadas no Figma e serão atualizadas constantemente
